@@ -1,4 +1,4 @@
-module github.com/PulsarG/ConfigManager
+module ConfigManager
 
 go 1.20
 
